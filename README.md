@@ -3,7 +3,7 @@
 
 - I’m currently in 4th year of information systems engineering 💻
 
-- I’m currently learning **nestJS with Typescript** 📘 
+- I’m currently learning **magento with PHP** 📘 
 
 - I'm currently working in my portfolio 📋
 
