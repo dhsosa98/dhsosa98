@@ -1,9 +1,9 @@
 <h1 align="center">Hi People 👋! I'm Diego Sosa</h1>
 <h3 align="center"> A Fullstack Developer from Argentina</h3>
 
-- I’m currently in 4th year of information systems engineering 💻
+- I’m currently in the last year of information systems engineering 💻
 
-- I’m currently learning **magento with PHP** 📘 
+- I’m currently specializing **Magento with PHP** and **React Native** 📘 
 
 - I'm currently working in my portfolio 📋
 
