@@ -3,7 +3,7 @@
 
 - I’m currently in the last year of information systems engineering 💻
 
-- I’m currently specializing **Magento with PHP** and **React Native** 📘 
+- I’m currently specializing in **Magento with PHP** and **React Native** 📘 
 
 - I'm currently working in my portfolio 📋
 
